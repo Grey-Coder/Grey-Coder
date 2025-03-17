@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amit
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning App Development
-- 💞️ I’m looking to collaborate on Web programming
-- 📫 How to reach me on facebook @amit.acharjee.5496
+- 💞️ I’m looking to collaborate on various projects
+- 📫 How to reach me https://www.linkedin.com/in/amit--acharjee/
 
 <!---
 Grey-Coder/Grey-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
