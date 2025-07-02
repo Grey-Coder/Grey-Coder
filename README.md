@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning App Development
+- 🌱 I’m currently learning Embedded C/C++ Development
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me https://www.linkedin.com/in/amit--acharjee/
 
